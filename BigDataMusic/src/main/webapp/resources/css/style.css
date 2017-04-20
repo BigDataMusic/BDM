@@ -157,6 +157,20 @@ line-height:25px;
 padding:0 0 0 8px;
 }
 
+#navigation2{
+padding:0px 0 0 0;
+}
+
+#navigation2 li{
+list-style-type:none;
+line-height:25px;
+padding:0 0 0 8px;
+}
+
+#navigation2 li a{
+text-decoration : none;
+}
+
 #nav{
 padding:5px 0 0 20px;
 }
@@ -288,6 +302,30 @@ width:200px;
 float:left;
 padding:15px 0 0 10px
 }
+
+.column_dc{
+width:465px;
+padding:0px 50px 0 7px;
+color:#333333;
+float:left;
+}
+
+.column_dc p{
+display:block;
+width:460px;
+}
+
+.column_dc2{
+width:200px;
+float:left;
+padding:10px 0 0 10px
+}
+.column_dc2 ul{
+list-style-type: none;
+}
+.column_dc2 li{
+
+}
 .news{
 font-family:Arial, Helvetica, sans-serif;
 font-size:11px;
@@ -374,7 +412,7 @@ font-size:11px;
 color:#FFFFFF;
 text-decoration:none;
 display:block;
-padding:2px 0 3px 0
+padding:2px 0 3px 0px
 }
 .tree{
 margin:-30px 0 17px 0;
@@ -387,15 +425,15 @@ text-decoration:underline;
 .tree a:visited{text-decoration:underline}
 .tree a:hover{text-decoration:none}
 .gallery{
-padding:20px 0 0 0;
+padding:10px 0 0 0;
 }
 .gallery div{
-width:468px;
+width:472px;
 overflow:hidden;
 float:left;
 background-color:#191919;
-padding:11px 0 0 8px;
-/ padding:11px 0 10px 8px;
+padding:15px 0 0 8px;
+margin-bottom: 10px
 }
 .gallery div div{
 float:left;
@@ -407,7 +445,7 @@ float:left;
 }
 .gallery div div img{
 float:left;
-margin:0 9px 10px 0
+margin:0 9px 10px 0;
 }
 .arrow{
 margin:40px 0 0 0;

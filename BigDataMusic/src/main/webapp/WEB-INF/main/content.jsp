@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -10,95 +10,63 @@
 </head>
 
 <body>
-	<div id="header">																																																																																																																																				<div class="inner_copy"><a href="http://ecommercebuilders.blogspot.com/2016/07/shopify-review.html">http://ecommercebuilders.blogspot.com/2016/07/shopify-review.html</a></div>																																																																																		
-		<div class="login">
-			<input type="text" class="input" value="Login" /> <input type="text" class="input" value="Password" />																														
-			<div class="enter"><a href="#">Enter</a></div>
-			<div class="links"><a href="#">Forgot password</a> | <a href="#">Registration</a></div>
+	<div id="content">
+		<!-- <div class="search">
+			<span>Search</span> <input type="text" />
+		</div> -->
+		<div class="column_dc">
+			<!-- <div class="tree">
+				<a href="#">Tours</a> &raquo; Maldives
+			</div> -->
+			<!-- <img src="resources/images/title5.gif" alt="" width="255" height="19" /><br /> -->
+			<p id="title_ex" style="margin: 0px;padding: 10px 0;">노래제목 / 가수명</p>
+			<div class="gallery">
+				<iframe id="mv" src="https://www.youtube.com/embed/dMn509ddAkc" frameborder="0" allowfullscreen></iframe>
+				<p id="title_ex" style="margin: 0px;padding: 10px 0;">가수의 다른곡</p>
+				<div>
+					<a href="#" class="arrow"><img src="resources/images/arrow_l.gif" alt="" width="10" height="96" /></a>
+					<div>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+						<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="78" /></a>
+					</div>
+					<a href="#" class="arrow"><img src="resources/images/arrow_r.gif" alt="" width="10" height="96" /></a>
+				</div>
+				
+				<p id="title_ex" style="margin-top: 0;padding: 10px 0;">순위 변동</p>
+				<img src="resources/images/graph1.jpg" alt="" width="480" height="270" />
+			</div>			
 		</div>
-		<ul id="menu">
-			<li><a href="index.html">Home page</a></li>
-			<li><a href="index2.html">About us</a></li>                                                                                                                                                                                                                                                                                                                                                                     
-			<li><a href="index2.html">News</a></li>
-			<li><a href="index2.html">Hot Tours</a></li>
-			<li><a href="index2.html">Hotels</a></li>
-			<li><a href="index2.html">Cruises</a></li>
-			<li><a href="index2.html">Contact us</a></li>
-		</ul>
-	</div>
-	<div id="wrapper">																																																																																																																																												<div class="inner_copy"><a href="http://www.bestfreetemplates.info/builders.php">http://www.bestfreetemplates.info/builders.php</a></div>																																																																															
-		<div id="sidebar">
-			<div class="logo_block">
-				<a href="#"><img src="resources/images/logo.jpg" alt="setalpm" width="198" height="156" /></a><br />
-				<span class="slogan">Best offers for You</span>
-				<p class="text1">Illum secundum exerci erat plaga illum, enim, venio. Tamen causa ut diam torqueo sagaciter inhibeo si quae exerci lobortis.</p>
-			</div>
-			<img src="resources/images/title1.gif" alt="" width="126" height="21" /><br />
-			<ul id="navigation">
-				<li class="color"><a href="#">Illum secundum</a></li>
-				<li><a href="#">Aenean mturpis</a></li>
-				<li class="color"><a href="#">Maecenas hendrerit</a></li>
-				<li><a href="#">Tellus er sodales</a></li>
-				<li class="color"><a href="#">Illum secundum</a></li>
-				<li><a href="#">Aenean mturpis</a></li>
-				<li class="color"><a href="#">Maecenas hendrerit</a></li>
-				<li><a href="#">Tellus er sodales</a></li>
-				<li class="color"><a href="#">Illum secundum</a></li>
-				<li><a href="#">Aenean mturpis</a></li>
-				<li class="color"><a href="#">Maecenas hendrerit</a></li>
-				<li><a href="#">Tellus er sodales</a></li>
-				<li class="color"><a href="#">Illum secundum</a></li>
-				<li><a href="#">Aenean mturpis</a></li>
-				<li class="color"><a href="#">Illum secundum</a></li>
-				<li><a href="#">Maecenas hendrerit</a></li>
-				<li class="color"><a href="#">Aenean mturpis</a></li>
+		<div class="column_dc2">
+			<p id="title_ex" style="margin: 0px;padding: 10px 0;">가수 프로필</p>
+			<img src="http://sstatic.naver.net/people/portrait/201704/20170417141627678.jpg" alt="" width="200" height="270"/>			
+			<p class="info">
+			아이유 (이지은)<br>
+			25세 (만 23세) 황소자리 닭띠<br> 
+			출생 : 1993년 5월 16일 <br>
+			소속사 : <br> 
+			로엔엔터테인먼트, 페이브엔터테인먼트<br> 
+			신체 : 161.8cm, 44kg, A형 <br>
+			데뷔 : 2008년 미니 앨범 [Lost and Found]</p>
+			<a href="#" class="button">more info</a>
+			<p id="title_ex" style="margin: 0px; padding: 10px 0;">이럴때 추천</p>
+			<img src="resources/images/chart.jpg" alt="" width="200" height="200" />
+			<p id="title_ex" style="margin: 0px; padding: 10px 0;">같이 듣기 좋은 음악</p>
+			<ul id="navigation2">
 				<li><a href="#">Illum secundum</a></li>
-				<li class="color"><a href="#">Tellus er sodales</a></li>
+				<li><a href="#">Illum secundum</a></li>
+				<li><a href="#">Illum secundum</a></li>
+				<li><a href="#">Illum secundum</a></li>
+				<li><a href="#">Illum secundum</a></li>
 			</ul>
 		</div>
-		<div id="content">
-			<div class="search"><span>Search</span> <input type="text" /></div>
-       		<div class="column1">
-			 	<div class="tree"><a href="#">Tours</a>  &raquo; Maldives</div>
-				<img src="resources/images/title5.gif" alt="" width="255" height="19" /><br />
-				<div class="gallery">
-					<img src="resources/images/photo.jpg" width="476" height="270" /><br />
-					<div>
-						<a href="#" class="arrow"><img src="resources/images/arrow_l.gif" alt="" width="8" height="46" /></a>
-						<div>
-							<a href="#"><img src="resources/images/photo1.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo2.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo3.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo4.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo5.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo6.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo7.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo8.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo9.jpg" alt="" width="78" height="58" /></a>
-							<a href="#"><img src="resources/images/photo10.jpg" alt="" width="78" height="58" /></a>
-						</div>
-						<a href="#" class="arrow"><img src="resources/images/arrow_r.gif" alt="" width="8" height="46" /></a>
-					</div>
-				</div>
-			 </div>
-			 <div class="column2">
-				<img src="resources/images/title6.gif" alt="" width="104" height="19" /><br />
-				<p class="info">Lorem ipsum dolor sit amet, sectetu adip scing varius interdum incid unt quis, libero. Aenean mturpis. Maecenas hendrerit masa laoreet iaculipede mnisl ulamcorper. Tellus er sodales enim, in tincidunt mauris in odio. Massa ac laoreet iaculipede nisl ullamcorpermassa, ac consectetuer feipsum eget pede.  Proin nunc. Donec massa. Nulla pulvinar, nisl ac convallis nonummy, tellus eros sodales enim, in tincidunt mauris in odio.  massa ac laoreet iaculipede nisl ullamcorpermassa,consectetuer feipsum eget pede. Proin nunc. Donec massa. Nulla pulvinar, nisl ac convallis nonummy, tellus eros sodales enim, in tincidunt mauris in </p>
-				<a href="#" class="button">more info</a>
-		  	</div>
-		</div>
-	</div>
-	<div id="footer">																																																																																																																																																												<div class="inner_copy"><a href="https://www.engadget.com/2015/12/04/top-10-website-builders-for-small-business/">best website builders for small business</a></div>																																																																																																																																																																																																							
-		<ul>
-			<li><a href="index.html">Home page</a>|</li>
-			<li><a href="index2.html">About us</a>|</li>
-			<li><a href="index2.html">News</a>|</li>
-			<li><a href="index2.html">Hot Tours</a>|</li>
-			<li><a href="index2.html">Hotels</a>|</li>
-			<li><a href="index2.html">Cruises</a>|</li>
-			<li><a href="index2.html">Contact us</a></li>
-		</ul>
-		<p>Copyright &copy;. All rights reserved. Design by <a href="http://www.bestfreetemplaes.info" target="_blank" title="Best Free Templates">BFT</a>  </p>
 	</div>
 </body>
 </html>

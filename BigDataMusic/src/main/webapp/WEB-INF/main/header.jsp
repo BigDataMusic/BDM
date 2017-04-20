@@ -23,13 +23,11 @@
 			</div>
 		</div> -->
 		<ul id="menu">
-			<li><a href="main.do">Home page</a></li>
-			<li><a href="content.do">About us</a></li>
-			<li><a href="content.do">News</a></li>
-			<li><a href="content.do">Hot Tours</a></li>
-			<li><a href="content.do">Hotels</a></li>
-			<li><a href="content.do">Cruises</a></li>
-			<li><a href="content.do">Contact us</a></li>
+			<li><a href="main.do">Home</a></li>
+			<li><a href="content.do">음악인 Top100</a></li>
+			<li><a href="content.do">New Tracks</a></li>
+			<li><a href="content.do">음악추천</a></li>
+			<li><a href="content.do">상세페이지 - 추후 이동</a></li>
 		</ul>
 	</div>
 </body>
