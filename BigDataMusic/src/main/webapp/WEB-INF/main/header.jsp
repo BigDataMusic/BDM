@@ -24,7 +24,7 @@
 		</div> -->
 		<ul id="menu">
 			<li><a href="main.do">Home</a></li>
-			<li><a href="content.do">음악인 Top100</a></li>
+			<li><a href="top100.do">음악인 Top100</a></li>
 			<li><a href="content.do">New Tracks</a></li>
 			<li><a href="content.do">음악추천</a></li>
 			<li><a href="content.do">상세페이지 - 추후 이동</a></li>

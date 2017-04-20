@@ -15,4 +15,9 @@ public class MainController {
 	{
 		return "content";
 	}
+	@RequestMapping("top100.do")
+	public String main_top100()
+	{
+		return "top100";
+	}
 }
